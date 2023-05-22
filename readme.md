@@ -1,3 +1,18 @@
+## Use:
+
+- "-a, --action <type>", "choose action"
+- "-i, --id <type>", "user id"
+- "-n, --name <type>", "user name"
+- "-e, --email <type>", "user email"
+- "-p, --phone <type>", "user phone"
+
+## Actions:
+
+- list
+- get
+- add
+- remove
+
 ## Examples:
 
 - Get contacts list: https://files.fm/u/yx7g7cwuf#/view/gmdha8a89
